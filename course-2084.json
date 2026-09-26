@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-mohaoz",
-  "commit": "faf7e2726d442043801b1c2c07b56b593e0ba1e9",
-  "score": 36,
+  "commit": "8c3d1f4cf6d6fe9ae368be13c695b5c7da1261bf",
+  "score": 40,
   "totalScore": 110,
   "exercises": [
     {
@@ -261,30 +261,30 @@
     {
       "name": "strings1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "strings2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "strings3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "strings4",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "modules1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "mohaoz",
-  "runId": "36240392578",
+  "runId": "36240732810",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
